@@ -7,10 +7,10 @@ This module is structured to guide you through several key patterns and practice
 - **Service Objects**: Simplifying business logic and keeping controllers clean.
 - **Domain-Driven Design (DDD)**: Managing complexity by focusing on the domain and domain logic.
 - **Good Concerns**: Utilizing Rails' concerns to DRY up your code and keep it organized.
-- **SOLID Principles**: The foundation of object-oriented design, ensuring your code is flexible and robust.
-- **Test-Driven Development (TDD)**: Building reliability into your application from the start.
+<!-- - **SOLID Principles**: The foundation of object-oriented design, ensuring your code is flexible and robust. -->
+<!-- - **Test-Driven Development (TDD)**: Building reliability into your application from the start. -->
 - **Dependency Injection**: Reducing tight coupling between components to improve code maintainability.
-- **Anti-Patterns and Code Smells**: Recognizing and avoiding common pitfalls in software development.
+<!-- - **Anti-Patterns and Code Smells**: Recognizing and avoiding common pitfalls in software development. -->
 
 By integrating these concepts into your applications, you'll develop a keen eye for both the architecture and the subtleties of crafting software that stands the test of time.
 
