@@ -29,3 +29,4 @@ Many of the ideas in this module come from these classic texts:
 - [Summary of 'Clean Code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](https://www.amazon.com/dp/B00794TAUG)
 - [Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/dp/B008OHVDFM)
+- [The Pragmatic Programmer by David Thomas, Andrew Hunt](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
