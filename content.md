@@ -23,6 +23,9 @@ Throughout this module, your toolkit will expand, not just with new coding techn
 
 Let's embark on this journey together, enhancing our skills and knowledge to master the Patterns of Enterprise Application Architecture.
 
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
+
 ## Resources
 Many of the ideas in this module come from these classic texts:
 - [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
