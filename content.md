@@ -5,13 +5,11 @@ Welcome to our journey through the Patterns of Enterprise Applications. As you e
 This module is structured to guide you through several key patterns and practices that are pivotal in enterprise-level application development. We'll start with an introduction to the core concepts and gradually delve into more complex topics, providing practical examples and projects to reinforce your learning. Here's what you can expect:
 
 - **Service Objects**: Simplifying business logic and keeping controllers clean.
-- **Domain-Driven Design (DDD)**: Managing complexity by focusing on the domain and domain logic.
-- **Concerns**: Utilizing Rails' concerns to DRY up your code and keep it organized.
-- **Style Guides, Linters and Code Analyzers**: Using tools to analyze your code for errors, stylistic inconsistencies, and potential bugs before they become problematic.
-- **Dependency Injection**: Reducing tight coupling between components to improve code maintainability.
+- **Domain-Driven Design**: Managing complexity by focusing on the domain and domain logic.
+- **Clean Code**: Writing sustainable and scalable code that can be easily understood by anyone on the team.
 - **SOLID Principles**: The foundation of object-oriented design, ensuring your code is flexible and robust.
-- **Test-Driven Development (TDD)**: Building reliability into your application from the start.
 - **Anti-Patterns and Code Smells**: Recognizing and avoiding common pitfalls in software development.
+- **Writing Code for Humans**: Strategies to enhance code readability and maintainability so it communicates its intention clearly not only to computers but also to human developers.
 
 By integrating these concepts into your applications, you'll develop a keen eye for both the architecture and the subtleties of crafting software that stands the test of time.
 
